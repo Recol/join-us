@@ -1,5 +1,5 @@
 ---
-title: BBC News Products and Systems
+title: BBC Digital Products
 ---
 # Join Us
 
@@ -13,15 +13,15 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ### London
 
-**[Software Engineering Team Lead - JS (React) - BBC News and World Service](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead/30993)**
+**[Software Engineer - JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-BBC-News/45270)**
 
-Applications close **When the role is filled**
+### Cardiff
+
+**[Software Engineering Team Lead - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News/45020)**
 
 ### Glasgow
 
-**[Software Engineering Team Lead JS - BBC World Service](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-W2020/34232)**
-
-**[Two Senior Software Engineers - BBC World Service](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-W2020/37942)**
+**[Software Engineer - JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-W2020/42206)**
 
 Applications close **When the role is filled**
 
